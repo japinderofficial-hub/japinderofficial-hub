@@ -52,7 +52,7 @@
 
 ## 🛠 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,numpy,pandas,machine learning,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode" />
 </p>
 
 ---
