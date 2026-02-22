@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 BTech CSE student at **Newton School of Technology**
-- 💻 Comfortable with **C, C++, HTML, CSS, JavaScript & Python**
+- 💻 Comfortable with **C, C++, HTML, CSS, JavaScript, Python, Numpy, Pandas, Machine Learning**
 - 🌐 Working with **Node.js** and backend fundamentals
 - 🧠 Currently learning **Data Structures & Algorithms (DSA)**
 - 💡 Interested in **Web Development & Open Source**
@@ -52,7 +52,7 @@
 
 ## 🛠 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,numpy,pandas,machine learning,nodejs,git,github,vscode" />
 </p>
 
 ---
