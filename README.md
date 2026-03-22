@@ -27,15 +27,6 @@
 ---
 
 ## 🎃 Hacktoberfest & GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=japinderofficial-hub&theme=onedark&no-bg=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@japinderofficialhub">
-    <img src="https://holopin.io/api/user/board?user=japinderofficialhub" alt="Japinder's Hacktoberfest Badges" />
-  </a>
-</p>
 
 <p align="center">
   <strong>🏅 Hacktoberfest Super Contributor & Open Source Enthusiast</strong>
