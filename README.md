@@ -26,14 +26,6 @@
 
 ---
 
-## 🎃 Hacktoberfest & GitHub Trophies
-
-<p align="center">
-  <strong>🏅 Hacktoberfest Super Contributor & Open Source Enthusiast</strong>
-</p>
-
----
-
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/japinder-kaur-408353396" target="_blank">
